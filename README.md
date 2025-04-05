@@ -1,3 +1,5 @@
+This is my second project. A simple web app to preview a border radius based on the user's input.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
